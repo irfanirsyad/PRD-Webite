@@ -1,0 +1,6 @@
+{
+  "name": "PRDGenius",
+  "description": "Premium Landing Page with interactive editor visualisations and smooth micro-interactions for the generative AI-powered PRDGenius SaaS platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
